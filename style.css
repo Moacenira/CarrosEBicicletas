@@ -1,0 +1,30 @@
+body {
+  font-family: arial;
+  margin: 50px;
+  
+}
+h1{
+  text-align: center;
+}
+h2{
+  color: white
+}
+div {
+  width: 60%;
+  color: #b2b2b2;
+  background-color: #111;
+  border-radius: 4px;
+  margin: 20px;
+  padding: 30px;
+  
+}
+
+span{
+  color:#febe01;
+}
+#botao {
+  background:#febe01;
+  color: #332200;
+  padding: 10px;
+  border-radius: 4px;
+}
